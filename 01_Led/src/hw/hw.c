@@ -21,6 +21,7 @@ void hwInit(void)
 
   millisInit();
   delayInit();
+  swtimerInit();
 
   ledInit();
 }
