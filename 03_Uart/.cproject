@@ -32,6 +32,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.1260566082" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" useByScannerDiscovery="false" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.1567370601" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess" useByScannerDiscovery="false"/>
@@ -53,6 +54,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.1924151358" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" useByScannerDiscovery="false" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.1573388833" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess" useByScannerDiscovery="false"/>
@@ -88,6 +90,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.390798515" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" useByScannerDiscovery="false" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.313030046" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess" useByScannerDiscovery="false"/>
@@ -164,6 +167,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.1730767251" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.54114227" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess"/>
@@ -185,6 +189,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.869690793" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.154763974" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess"/>
@@ -214,6 +219,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/bsp/cmsis}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/common/core}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src/lib/Ethernet-IPv6}&quot;"/>
 								</option>
 								<option id="com.atollic.truestudio.common_options.target.mcpu.15376390" name="Microcontroller" superClass="com.atollic.truestudio.common_options.target.mcpu" value="STM32F103VC" valueType="enumerated"/>
 								<option id="com.atollic.truestudio.common_options.target.endianess.938154536" name="Endianess" superClass="com.atollic.truestudio.common_options.target.endianess"/>
